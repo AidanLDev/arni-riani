@@ -1,5 +1,5 @@
 import { createFileRoute } from "@tanstack/react-router";
-import Title from "../components/Title";
+import Title from "../components/ui/Title";
 import SocialLinks from "../components/SocialLinks";
 import heroImage from "../assets/images/Aidan_Arni_Bromo.webp";
 

@@ -1,5 +1,5 @@
 import { createFileRoute } from "@tanstack/react-router";
-import Title from "../components/Title";
+import Title from "../components/ui/Title";
 import indonesiaFlag from "../assets/images/indonesia.png";
 import ukFlag from "../assets/images/uk.svg";
 

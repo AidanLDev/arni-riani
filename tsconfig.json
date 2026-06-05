@@ -1,5 +1,6 @@
 {
   "compilerOptions": {
+    "types": ["gtag.js"],
     "strict": true,
     "esModuleInterop": true,
     "jsx": "react-jsx",
